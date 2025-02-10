@@ -1,0 +1,4 @@
+chainlit
+langchain_google_genai
+python-dotenv
+-e .
