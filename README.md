@@ -36,12 +36,17 @@ pip install -r requirements.txt
   ```
 
 ## Usage
-### 1. Run the Chatbot
+### 1. Initialize the Chatbot
+```sh
+chainlit init
+```
+
+### 2. Run the Chatbot
 ```sh
 chainlit run app.py
 ```
 
-### 2. Interacting with the Chatbot
+### 3. Interacting with the Chatbot
 - Open the provided **localhost URL** in your browser.
 - Type messages and interact with Gemini AI.
 
