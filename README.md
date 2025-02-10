@@ -13,7 +13,7 @@ This project is a chatbot built using **Chainlit** and **Google Gemini AI**. The
 ## Installation
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/paravsyal02/ZOMATO-CHATBOT-WITH-CHAINLIT.git
+git clone https://github.com/paravsyal02/Zomato-Chatbot-with-Chainlit.git
 ```
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
